@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    
+}
+
+.img-logo{
+    width: 80px;
+    height: 80px;
+    margin: 15px;
+}
+
+header{
+    background-color: rgb(15, 15, 15) ;
+    margin-bottom: 20px;
+    display: flex;
+
+}
+
+.mm{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    color: #ffffff;
+}
+
+.bb{
+    margin: 30px;
+    text-decoration: none;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+
+section{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-items: center;
+    background-color: rgb(15, 15, 15);
+    margin: 70px;
+    border: darkgreen dashed  10px;
+}
+
+article{
+    width: 20%;
+    text-align: center;
+    margin: 25px;
+    background-color: #ffffff;
+    height: 400px;
+    border: darkgreen solid 5px;
+}
+
+
+
+.logo{
+    color: white;
+    position: relative;
+    top: 10px;
+    font-size: 80px;
+}
+
+footer{
+    background-color: rgb(15, 15, 15) ;
+    display: flex;
+    
+}
+
+.buttom{
+    text-decoration: none;
+    color: #ffffff;
+    margin: 40px;
+    font-size: 22px;
+    margin-left: 90px;
+}
+
+.conteiner-buttom{
+    display: flex;
+    position: relative;
+    left: 150px;
+}
+
+.h2{
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.text{
+   text-align: center;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-bottom: 16px;
+   font-size: 16px;
+}
+
+.sec{
+    border: none;
+    background-image: -moz-linear-gradient(none);
+    display: block;
+    position: absolute;
+}
+
+.image{
+    width: 60%;
+    height: 0%;
+}
+
+.ul{
+    position: relative;
+    left: 70px;
+}
+
+article img{
+    width: 95%;
+    height: 70%;
+    margin: 5px;
+}
+
+nav a:visited{
+    color: darkgreen;
+}
+
+nav a:hover{
+    color: darkgreen;
+}
+
+footer a:hover{
+     color: greenyellow;
+}
+
+.p{
+    margin: 15px;
+    border: darkgreen solid 15px;
+    margin-left: 70px;
+}
+
+.p p{
+    color: white;
+    padding: 15px;
+}
+
+.p h2{
+    color: #ffffff;
+}
+
+.p ul{
+    color: #ffffff;
+}
+
+.con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+article:hover{
+    background-color: #a6f2c1;
+    transform: scale(1.2);
+}
+
+.img-sell{
+    max-width: 100%;
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+}
+
+.text-sell{
+    height: 30%;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.n{
+    height: 300px;
+}
+
+.conteiner-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.con a{
+    display: block;
+    margin: 30px;
+}
